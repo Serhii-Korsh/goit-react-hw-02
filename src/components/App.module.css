@@ -1,0 +1,25 @@
+.box {
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 930px;
+  padding: 5px;
+}
+
+h1 {
+  font-weight: 600;
+  font-size: 38px;
+  line-height: 1;
+  letter-spacing: 0.05em;
+  color: black;
+  padding-bottom: 30px;
+}
+
+p {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1;
+  letter-spacing: 0.05em;
+  color: black;
+}

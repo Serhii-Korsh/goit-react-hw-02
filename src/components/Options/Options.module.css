@@ -1,0 +1,22 @@
+.box {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+
+.btn {
+  padding: 8px;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1;
+  letter-spacing: 0.05em;
+  color: black;
+  border-radius: 5px;
+  transition: background-color 0.8s;
+}
+
+.btn:hover {
+  background-color: rgb(202, 200, 200);
+}
